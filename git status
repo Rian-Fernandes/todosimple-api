@@ -1,0 +1,23 @@
+[33mcommit 7877be62be4379d893d368d697657051ce975e83[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m)[m
+Author: Rian-Fernandes <rian10fernandes@hotmail.com>
+Date:   Fri Oct 6 12:10:51 2023 -0300
+
+    Extension recommendations
+
+[33mcommit 437d7e71cb91ba125814e4f08b0bab9194c04078[m[33m ([m[1;31morigin/main[m[33m)[m
+Author: Rian-Fernandes <rian10fernandes@hotmail.com>
+Date:   Fri Oct 6 10:22:20 2023 -0300
+
+    Add dependencies versions
+
+[33mcommit e6648f2e1b10f52ca5f768880e3c6042c77e7fb7[m
+Author: Rian-Fernandes <rian10fernandes@hotmail.com>
+Date:   Thu Oct 5 14:51:04 2023 -0300
+
+    Configure project
+
+[33mcommit 9d5a14d17a49dcc8e7db30516a50f57c4f4d9da3[m
+Author: Rian-Fernandes <rian10fernandes@hotmail.com>
+Date:   Thu Oct 5 10:42:25 2023 -0300
+
+    Spring boot project
